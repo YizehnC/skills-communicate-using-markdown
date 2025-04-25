@@ -9,3 +9,6 @@ a short, meaningful commit message that describes the change you made to the fil
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [X] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [X] Introduce myself to the world
